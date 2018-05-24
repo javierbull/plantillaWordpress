@@ -1,0 +1,111 @@
+19:58:26  [main] 	Initializing Control Panel
+19:58:26  [main] 	Windows Version:  Pro  64-bit
+19:58:26  [main] 	XAMPP Version: 7.2.5
+19:58:26  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:58:26  [main] 	You are not running with administrator rights! This will work for
+19:58:26  [main] 	most application stuff but whenever you do something with services
+19:58:26  [main] 	there will be a security dialogue or things will break! So think 
+19:58:26  [main] 	about running this application with administrator rights!
+19:58:26  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:58:26  [main] 	Checking for prerequisites
+19:58:26  [main] 	All prerequisites found
+19:58:26  [main] 	Initializing Modules
+19:58:26  [main] 	Starting Check-Timer
+19:58:26  [main] 	Control Panel Ready
+19:59:31  [Apache] 	Attempting to start Apache app...
+19:59:31  [Apache] 	Status change detected: running
+19:59:37  [mysql] 	Attempting to start MySQL app...
+19:59:37  [mysql] 	Status change detected: running
+19:59:57  [main] 	Executing "services.msc"
+20:00:50  [main] 	Executing "c:\xampp\"
+20:35:09  [main] 	Executing "c:\xampp\"
+20:43:32  [Apache] 	Attempting to stop Apache (PID: 14032)
+20:43:32  [Apache] 	Attempting to stop Apache (PID: 8660)
+20:43:32  [Apache] 	Status change detected: stopped
+20:43:32  [mysql] 	Attempting to stop MySQL app...
+20:43:33  [mysql] 	Status change detected: stopped
+22:45:44  [main] 	Deinitializing Modules
+22:45:44  [main] 	Deinitializing Control Panel
+
+19:28:27  [main] 	Initializing Control Panel
+19:28:27  [main] 	Windows Version:  Pro  64-bit
+19:28:27  [main] 	XAMPP Version: 7.2.5
+19:28:27  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+19:28:27  [main] 	You are not running with administrator rights! This will work for
+19:28:27  [main] 	most application stuff but whenever you do something with services
+19:28:27  [main] 	there will be a security dialogue or things will break! So think 
+19:28:27  [main] 	about running this application with administrator rights!
+19:28:27  [main] 	XAMPP Installation Directory: "c:\xampp\"
+19:28:27  [main] 	Checking for prerequisites
+19:28:39  [main] 	All prerequisites found
+19:28:39  [main] 	Initializing Modules
+19:28:39  [main] 	Enabling autostart for module "Apache"
+19:28:39  [main] 	Enabling autostart for module "MySQL"
+19:28:39  [main] 	Starting Check-Timer
+19:28:39  [main] 	Control Panel Ready
+19:28:40  [Apache] 	Autostart active: starting...
+19:28:40  [Apache] 	Attempting to start Apache app...
+19:28:40  [mysql] 	Autostart active: starting...
+19:28:40  [mysql] 	Attempting to start MySQL app...
+19:28:40  [Apache] 	Status change detected: running
+19:28:40  [mysql] 	Status change detected: running
+19:28:56  [main] 	Executing "c:\xampp\"
+19:29:28  [Apache] 	Attempting to stop Apache (PID: 10068)
+19:29:28  [Apache] 	Attempting to stop Apache (PID: 3904)
+19:29:28  [Apache] 	Status change detected: stopped
+19:29:29  [mysql] 	Attempting to stop MySQL app...
+19:29:29  [mysql] 	Status change detected: stopped
+23:58:09  [main] 	Deinitializing Modules
+23:58:09  [main] 	Deinitializing Control Panel
+
+17:17:58  [main] 	Initializing Control Panel
+17:17:58  [main] 	Windows Version:  Pro  64-bit
+17:17:58  [main] 	XAMPP Version: 7.2.5
+17:17:58  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+17:17:58  [main] 	You are not running with administrator rights! This will work for
+17:17:58  [main] 	most application stuff but whenever you do something with services
+17:17:58  [main] 	there will be a security dialogue or things will break! So think 
+17:17:58  [main] 	about running this application with administrator rights!
+17:17:58  [main] 	XAMPP Installation Directory: "c:\xampp\"
+17:17:58  [main] 	Checking for prerequisites
+17:18:24  [main] 	All prerequisites found
+17:18:24  [main] 	Initializing Modules
+17:18:24  [main] 	Enabling autostart for module "Apache"
+17:18:24  [main] 	Enabling autostart for module "MySQL"
+17:18:24  [main] 	Starting Check-Timer
+17:18:24  [main] 	Control Panel Ready
+17:18:25  [Apache] 	Autostart active: starting...
+17:18:25  [Apache] 	Attempting to start Apache app...
+17:18:25  [mysql] 	Autostart active: starting...
+17:18:25  [mysql] 	Attempting to start MySQL app...
+17:18:27  [Apache] 	Status change detected: running
+17:18:27  [mysql] 	Status change detected: running
+17:55:15  [main] 	Executing "c:\xampp\mysql"
+19:43:00  [main] 	Deinitializing Modules
+19:43:00  [main] 	Deinitializing Control Panel
+
+9:21:39  [main] 	Initializing Control Panel
+9:21:39  [main] 	Windows Version:  Pro  64-bit
+9:21:39  [main] 	XAMPP Version: 7.2.5
+9:21:39  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+9:21:39  [main] 	You are not running with administrator rights! This will work for
+9:21:39  [main] 	most application stuff but whenever you do something with services
+9:21:39  [main] 	there will be a security dialogue or things will break! So think 
+9:21:39  [main] 	about running this application with administrator rights!
+9:21:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+9:21:39  [main] 	Checking for prerequisites
+9:21:45  [main] 	All prerequisites found
+9:21:45  [main] 	Initializing Modules
+9:21:45  [main] 	Enabling autostart for module "Apache"
+9:21:45  [main] 	Enabling autostart for module "MySQL"
+9:21:45  [main] 	Starting Check-Timer
+9:21:45  [main] 	Control Panel Ready
+9:21:45  [Apache] 	Autostart active: starting...
+9:21:45  [Apache] 	Attempting to start Apache app...
+9:21:45  [mysql] 	Autostart active: starting...
+9:21:45  [mysql] 	Attempting to start MySQL app...
+9:21:46  [Apache] 	Status change detected: running
+9:21:46  [mysql] 	Status change detected: running
+10:56:24  [main] 	Deinitializing Modules
+10:56:24  [main] 	Deinitializing Control Panel
+
